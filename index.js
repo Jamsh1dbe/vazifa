@@ -131,8 +131,44 @@
 
 // masala 17 
 
-var A = 10
-var B = 20
-var C = 40
-console.log( C - A)
-console.log( C - B)
+// var A = 10
+// var B = 20
+// var C = 40
+// var AC = C - A
+// console.log( AC )
+// var BC = C - B
+// console.log( BC )
+// console.log( AC + BC)
+
+// masala 18
+
+// var A = 10
+// var B = 20
+// var C = 40
+// var AC = C - A
+// console.log( AC )
+// var BC = C - B
+// console.log( BC )
+// console.log( AC * BC)
+
+// masala 19
+
+// var a = 10
+// var b = 15
+// var P = 2 * ( a + b)
+// console.log( P )
+// var S = a * b
+// console.log( S )
+
+// masala 20
+
+// var x1 = 12
+// var x2 = 15
+// var y1 = 8
+// var y2 = 19
+// console.log(( ( x1 - x2 ) ** 2 + ( y2 - y1) ** 2) ** 0.5)
+
+// masala 21
+
+
+
